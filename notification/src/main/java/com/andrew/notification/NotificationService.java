@@ -3,7 +3,6 @@ package com.andrew.notification;
 import com.andrew.clients.notification.NotificationRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-
 import java.time.LocalDateTime;
 
 @Service

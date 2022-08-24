@@ -1,8 +1,0 @@
-  N     O       T       I       F       I       C       A       T       I       O       N
-
-  N     O       T       I       F       I       C       A       T       I       O       N
-
-  N     O       T       I       F       I       C       A       T       I       O       N
-
-  ${application.title} ${application.version}
-  Powered by Spring Boot ${spring-boot.version}
