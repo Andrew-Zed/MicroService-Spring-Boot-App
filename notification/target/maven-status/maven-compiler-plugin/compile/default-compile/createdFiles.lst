@@ -1,0 +1,9 @@
+com/andrew/notification/NotificationConfig.class
+com/andrew/notification/NotificationService.class
+com/andrew/notification/Notification.class
+com/andrew/notification/NotificationRepository.class
+com/andrew/notification/NotificationApplication.class
+com/andrew/notification/ApplicationConfig.class
+com/andrew/notification/rabbitmq/NotificationConsumer.class
+com/andrew/notification/NotificationController.class
+com/andrew/notification/Notification$NotificationBuilder.class

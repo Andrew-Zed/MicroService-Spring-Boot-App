@@ -1,0 +1,8 @@
+com/andrew/customer/CustomerController.class
+com/andrew/customer/CustomerRegistrationRequest.class
+com/andrew/customer/CustomerApplication.class
+com/andrew/customer/Customer$CustomerBuilder.class
+com/andrew/customer/CustomerService.class
+com/andrew/customer/CustomerConfig.class
+com/andrew/customer/Customer.class
+com/andrew/customer/CustomerRepository.class
