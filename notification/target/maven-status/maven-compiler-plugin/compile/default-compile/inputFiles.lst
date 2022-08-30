@@ -1,0 +1,8 @@
+/Users/mac/Desktop/Andrews-Project/micro-services/notification/src/main/java/com/andrew/notification/NotificationApplication.java
+/Users/mac/Desktop/Andrews-Project/micro-services/notification/src/main/java/com/andrew/notification/Notification.java
+/Users/mac/Desktop/Andrews-Project/micro-services/notification/src/main/java/com/andrew/notification/NotificationRepository.java
+/Users/mac/Desktop/Andrews-Project/micro-services/notification/src/main/java/com/andrew/notification/NotificationService.java
+/Users/mac/Desktop/Andrews-Project/micro-services/notification/src/main/java/com/andrew/notification/ApplicationConfig.java
+/Users/mac/Desktop/Andrews-Project/micro-services/notification/src/main/java/com/andrew/notification/rabbitmq/NotificationConsumer.java
+/Users/mac/Desktop/Andrews-Project/micro-services/notification/src/main/java/com/andrew/notification/NotificationController.java
+/Users/mac/Desktop/Andrews-Project/micro-services/notification/src/main/java/com/andrew/notification/NotificationConfig.java

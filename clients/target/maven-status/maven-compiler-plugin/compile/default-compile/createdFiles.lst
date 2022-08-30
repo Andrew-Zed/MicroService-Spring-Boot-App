@@ -1,0 +1,4 @@
+com/andrew/clients/fraud/FraudCheckResponse.class
+com/andrew/clients/fraud/FraudClient.class
+com/andrew/clients/notification/NotificationClient.class
+com/andrew/clients/notification/NotificationRequest.class
